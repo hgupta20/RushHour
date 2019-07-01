@@ -4,9 +4,6 @@
  *     object is to move the vehicles such that the small
  *     car can exit the right of the board.
  *
- * Program 2- Due October 1.
- * Class: CS 141, Fall 2017. Tues 9am lab
- * Teaching Assitants : Moumita Samanta, Vincent Pham 
  * System: Windows 10,Dev-C++
  * Author: Harsh Devprakash Gupta
  *
@@ -39,9 +36,6 @@ void displayIDInfo()
 {
     cout << "Program #2: Rush Hour" << endl;
 	cout << "Author: Harsh Devprakash Gupta" << endl;
-	cout << "Lab: Tues 9am"<< endl;
-	cout << "Teaching Assitants : Moumita Samanta, Vincent Pham "<< endl;
-	cout << "Date: Sep 23, 2017" << endl;
 	cout << "System: C++ in Dev C++" << endl;
 	cout<< endl;
 }//end displayIDInfo()
