@@ -34,7 +34,7 @@ int numOfSquares; // global variables for Number Of Squares
 // Display ID info
 void displayIDInfo()
 {
-    cout << "Program #2: Rush Hour" << endl;
+
 	cout << "Author: Harsh Devprakash Gupta" << endl;
 	cout << "System: C++ in Dev C++" << endl;
 	cout<< endl;
